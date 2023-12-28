@@ -43,7 +43,7 @@ Tabela de ferramentas necessárias para rodar o projeto, com as versões recomen
 #### Clone o repositório
 
 ```bash 
-$ git clone https://github.com/projeto-de-algoritmos/Grafos2
+$ git clone gh repo clone alcantaragiubs/Grafos-Dijkstra
 ```
 
 #### Instale as dependências do projeto
@@ -67,7 +67,7 @@ $ npm install react react-dom
 #### Entre no caminho da pasta
 
 ```bash
-$ cd .\Grafos2
+$ cd .\Grafos-Dijkstra
 ```
 
 #### Execute o projeto 
